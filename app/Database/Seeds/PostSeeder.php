@@ -10,33 +10,33 @@ class PostSeeder extends Seeder
     {
         $posts = [
             [
-                'content'       => 'Kelvin ipsum dolor sit amet, consectetur adipiscing elit. Etiam nisi neque, convallis nec magna et, condimentum imperdiet augue. Etiam a nisi sed risus pharetra condimentum at a diam. Quisque pretium ante eget volutpat luctus. Nam eu nunc magna.',
+                'content'       => 'Rava 3 kunci kesuksesan usaha doa dan orang dalam',
                 'user_id'       => '2',
                 'category_id'   => '1',
             ],
             [
-                'content' => 'Gilang ipsum dolor sit amet, consectetur adipiscing elit. Etiam nisi neque, convallis nec magna et, condimentum imperdiet augue. Etiam a nisi sed risus pharetra condimentum at a diam. Quisque pretium ante eget volutpat luctus. Nam eu nunc magna.',
-                'user_id' => '3',
-                'category_id'   => '3',
-            ],
-            [
-                'content' => 'Ajeng ipsum dolor sit amet, consectetur adipiscing elit. Etiam nisi neque, convallis nec magna et, condimentum imperdiet augue. Etiam a nisi sed risus pharetra condimentum at a diam. Quisque pretium ante eget volutpat luctus. Nam eu nunc magna.',
-                'user_id' => '4',
-                'category_id'   => '3',
-            ],
-            [
-                'content' => 'Eka 1 ipsum dolor sit amet, consectetur adipiscing elit. Etiam nisi neque, convallis nec magna et, condimentum imperdiet augue. Etiam a nisi sed risus pharetra condimentum at a diam. Quisque pretium ante eget volutpat luctus. Nam eu nunc magna.',
+                'content' => 'Bima mana ada aku cuek apalagi colek colek kamu',
                 'user_id' => '5',
                 'category_id'   => '1',
             ],
             [
-                'content' => 'Eka 2 ipsum dolor sit amet, consectetur adipiscing elit. Etiam nisi neque, convallis nec magna et, condimentum imperdiet augue. Etiam a nisi sed risus pharetra condimentum at a diam. Quisque pretium ante eget volutpat luctus. Nam eu nunc magna.',
-                'user_id' => '5',
-                'category_id'   => '2',
+                'content' => 'Rista gitar ku petik bass ku betot, hai nona cantik bass ku betot',
+                'user_id' => '4',
+                'category_id'   => '1',
             ],
             [
-                'content' => 'Eka 3 ipsum dolor sit amet, consectetur adipiscing elit. Etiam nisi neque, convallis nec magna et, condimentum imperdiet augue. Etiam a nisi sed risus pharetra condimentum at a diam. Quisque pretium ante eget volutpat luctus. Nam eu nunc magna.',
-                'user_id' => '5',
+                'content' => 'Buduy bermimpilah setinggi langit sampai kamu nabrak satelit',
+                'user_id' => '6',
+                'category_id'   => '1',
+            ],
+            [
+                'content' => 'Rehan Emyu harus trebel 2025',
+                'user_id' => '3',
+                'category_id'   => '1',
+            ],
+            [
+                'content' => 'Iki apapun yang terjadi makan solusinya',
+                'user_id' => '7',
                 'category_id'   => '1',
             ],
         ];
