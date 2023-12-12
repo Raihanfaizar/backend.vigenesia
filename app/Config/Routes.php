@@ -16,10 +16,6 @@ $routes->group('api', static function ($routes) {
     'controller' => API\PostsController::class,
     'filter' => \App\Filters\AuthenticationFilter::class,
   ]);
-  $routes->resource('reports', [
-    'controller' => API\ReportsController::class,
-    'filter' => \App\Filters\AuthenticationFilter::class,
-  ]);
   $routes->resource('roles', [
     'controller' => API\RolesController::class,
     'filter' => \App\Filters\AuthenticationFilter::class,

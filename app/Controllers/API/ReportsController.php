@@ -96,7 +96,7 @@ class ReportsController extends ResourceController
             }
             $report = [
                 'id' => $id,
-                'title' => $this->request->getRawInputVar('title'),
+                'title' => $this->request->getVar('title'),
             ];
             $response = $this->report->save($report);
             if($response) {
